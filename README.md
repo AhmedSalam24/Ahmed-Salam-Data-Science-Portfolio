@@ -18,6 +18,16 @@ Welcome to my portfolio! This repository showcases a collection of my projects i
 
 I am **Ahmed Salam**, a passionate data scientist and data analyst with a deep interest in machine learning, data visualization, and statistical analysis. I am always eager to explore new data, derive insights, and build predictive models that can drive decision-making processes. With a solid foundation in **Python** 🐍, **SQL** 🗃️, and **Tableau** 📊, I have developed a diverse skill set to tackle complex data challenges.
 
+# Ahmed Salam
+
+Welcome to my GitHub profile! I'm Ahmed Salam, a passionate Data Scientist and Data Analyst with a strong background in Electrical and Computer Engineering. I specialize in machine learning, data analysis, and visualization, with a particular focus on solving real-world problems through data-driven insights.
+
+- 💡 **Data Science & Machine Learning Enthusiast:** I have a deep interest in developing innovative solutions using machine learning algorithms and advanced data analysis techniques.
+- 🔍 **Turning Data into Insights:** Passionate about leveraging data to extract meaningful insights, make informed decisions, and drive impactful outcomes.
+- 📈 **Focused on Business & Medical Applications:** Eager to explore and apply data science and AI to solve real-world challenges in business and medical domains.
+- 📊 **Certified Professional:** I hold various certifications from Google Data Analytics, Microsoft, LinkedIn Learning, DataCamp, and more.
+- 🎓 **Bachelor of Science in Electrical and Computer Engineering:** Graduated with a GPA of 3.78, demonstrating a strong academic foundation and dedication to excellence.
+
 ## 📂 Portfolio Structure
 
 This portfolio is organized into the following sections:
