@@ -89,6 +89,6 @@ Feel free to reach out if you have any questions or if you’re interested in co
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-salam24/) 🔗
 - **Tableau Public**: [My Tableau Public Profile](https://public.tableau.com/app/profile/ahmed.salam1666/vizzes) 📊
-- **Email**: [My Email](ahmed.salam10019@gmail.com) 📧
+- **Email**: [My Email](Ahmed.Salam10019@gmail.com) 📧
 
 Thank you for visiting my portfolio!
