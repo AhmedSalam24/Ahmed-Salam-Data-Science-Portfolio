@@ -87,7 +87,7 @@ Our project provides an intuitive platform for early prediction and prevention o
 
 Feel free to reach out if you have any questions or if you’re interested in collaborating on a project!
 
-- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/ahmed-salam24) 🔗
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-salam24/) 🔗
 - **Tableau Public**: [My Tableau Public Profile](https://public.tableau.com/app/profile/ahmed.salam1666/vizzes) 📊
 - **Email**: [My Email](ahmed.salam10019@gmail.com) 📧
 
